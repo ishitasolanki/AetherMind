@@ -1,6 +1,6 @@
 # 🌌 AetherMind: Neuro-Fuzzy Associative Memory Agent
 
-![AetherMind Logo](file:///c:/Users/ishit/OneDrive/Desktop/Soft%20Computig/aethermind_logo.png)
+![AetherMind Logo](./aethermind_logo.png)
 
 **AetherMind** is a sophisticated soft computing system that simulates human-like memory dynamics using a hybrid **Neural + Fuzzy** architecture. By combining PyTorch-driven importance prediction with Mamdani-style fuzzy inference for decay reasoning, AetherMind maintains a memory space that feels biological, adaptive, and intelligent.
 
@@ -77,6 +77,14 @@ python plot_experiments.py
 | **Retention (High Importance)** | 72% | 97% | +25% |
 | **Pruning Efficiency** | 1.0x | 2.5x | Faster Trivia Cleanup |
 | **Associative Recall** | N/A | Supported | Contextual Awareness |
+
+### Visual Performance Insights
+
+#### 📊 Experiment Comparative Analysis
+![Experiment Results](./experiment_results.png)
+
+#### 📉 Memory Decay Trends
+![Memory Trends](./memory_trends.png)
 
 ---
 
